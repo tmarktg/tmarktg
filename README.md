@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.marktruong.com/](https://www.marktruong.com/)
 
-- 💬 Ask me about **JS, Linux, How to build a website**
+- 💬 Ask me about **JavaScript, Linux, How to build a website**
 
 - 📫 How to reach me **mtruong7613@sdsu.edu**
 
