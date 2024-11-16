@@ -129,7 +129,8 @@ Transparent, communicative, dedicated and superior development.<br>
 - <b>MVVM, MVP</b>
 -->
 
-![LeetCode Stats](https://leetcode.com/u/marckt/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/marckt?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&border=1&width=500)
+
 
 https://github.com/tandpfun/skill-icons#readme
  
