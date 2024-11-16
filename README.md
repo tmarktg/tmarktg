@@ -1,141 +1,32 @@
-<!--
-Clear Cache
--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmarktg&show_icons=true&theme=radical" alt="my github stats" height="190px" />
-    &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tmarktg&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+<h1 align="center">Hi 👋, I'm Mark Truong</h1>
+<h3 align="center">Full Stack Developer for Kaizen Apps</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmarktg" alt="tmarktg" /></a> </p>
+
+- 🔭 I’m currently working on [10anime](https://10anime.com/)
+
+- 🌱 I’m currently learning **OS, Interpreter, JS, Jellyfin**
+
+- 👯 I’m looking to collaborate on **any fun anime projects**
+
+- 👨‍💻 All of my projects are available at [https://www.marktruong.com/](https://www.marktruong.com/)
+
+- 💬 Ask me about **JS, Linux, How to build a website**
+
+- 📫 How to reach me **mtruong7613@sdsu.edu**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mark-truong76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark-truong76" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/marckt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marckt" height="30" width="40" /></a>
 </p>
 
-<!--
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmarktg&show_icons=true&locale=en&layout=compact" alt="tmarktg" /></p>
 
-<!--
-<p align="center">
-    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-</p>
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmarktg&show_icons=true&locale=en" alt="tmarktg" /></p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmarktg/tmarktg/refs/heads/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tmarktg/tmarktg/refs/heads/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmarktg&" alt="tmarktg" /></p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=tmarktg&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mark-truong76/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:mtruong7613@sdsu.edu">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
-## Fullstack Developer
-
-⦓ Try again fail again fail better ⦔
-<p style = "margin-left: 30px">
-Deep understanding of logic and programming algorithms.<br>
-1+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
-Bringing projects to completion!<br>
-Transparent, communicative, dedicated and superior development.<br>
-</p>
-
-### Skills, Languages, and Tools:
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prestonzen&layout=donut)
--->
-
-<!--#### No Code Builders
-[![No Code Builders](https://skillicons.dev/icons?i=wordpress,webflow&theme=dark)](https://skillicons.dev)
-
-#### Mobile Application Technologies
-[![Mobile Application Technologies](https://skillicons.dev/icons?i=dart,flutter,java,kotlin,swift&theme=dark)](https://skillicons.dev)
-
-#### PHP Stack
-[![PHP Stack](https://skillicons.dev/icons?i=php,laravel,symfony&theme=dark)](https://skillicons.dev)
--->
-
-#### JavaScript Technologies
-[![Javascript Stack](https://skillicons.dev/icons?i=javascript,react,nodejs,npm,yarn&theme=dark)](https://skillicons.dev)
-
-<!--#### Python Stack
-[![Python Stack](https://skillicons.dev/icons?i=python,fastapi,pandas&theme=dark)](https://skillicons.dev)-->
-
-#### Python Stack
-[![Python Stack](https://skillicons.dev/icons?i=python,fastapi,pandas&theme=dark)](https://skillicons.dev)
-
-
-<!--#### Ruby Stack
-[![Ruby Stack](https://skillicons.dev/icons?i=ruby,rails&theme=dark)](https://skillicons.dev)
-
-#### Database Technologies
-[![Database Technologies](https://skillicons.dev/icons?i=firebase,mysql,mongodb,postgres,redis,ipfs&theme=dark)](https://skillicons.dev)
-
-#### Blockchain Technologies
-[![Blockchain Technologies](https://skillicons.dev/icons?i=solidity&theme=dark)](https://skillicons.dev)
-
-#### Cloud Enviornments
-[![Cloud Enviornments](https://skillicons.dev/icons?i=aws,gcp,azure,replit,netlify,cloudflare&theme=dark)](https://skillicons.dev)
-
-#### Devops Tools
-[![Devops Tools](https://skillicons.dev/icons?i=docker,ansible,kubernetes,git,gitlab,githubactions,github,jenkins&theme=dark)](https://skillicons.dev)
-
-#### Monitoring & Testing Tools
-[![Monitoring Tools](https://skillicons.dev/icons?i=elasticsearch,stackoverflow,obsidian&theme=dark)](https://skillicons.dev)
-
-#### AI & Machine Learning Technologies
-[![AI & Machine Learning Technologies](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
-
-#### Low Level Programming
-[![Low Level Programming](https://skillicons.dev/icons?i=rust,cpp,c,go&theme=dark)](https://skillicons.dev)
--->
-
-#### Frontend Frameworks
-[![Frontend Frameworks](https://skillicons.dev/icons?i=html,css,react&theme=dark)](https://skillicons.dev)
-
-<!--#### API Frameworks
-[![API Frameworks](https://skillicons.dev/icons?i=graphql,postman,tailwind&theme=dark)](https://skillicons.dev)
-
-#### Game Development
-[![3D Modeling and Game Development](https://skillicons.dev/icons?i=lua,robloxstudio,blender,gamemakerstudio,ps,godot,cpp,c#,unreal,unity#&theme=dark)](https://skillicons.dev)
-
-#### Operating Systems & Interfaces
-[![Operating Systems](https://skillicons.dev/icons?i=windows,powershell,linux,bash,arch,apple,ubuntu,redhat,raspberrypi&theme=dark)](https://skillicons.dev)
--->
-
-#### Website Development
-- <b>Front-end</b> : HTML5, CSS3, JavaScript
-- <b>Back-end</b> : .NET, C#
-- <b>Custom APIs Development</b> : JavaScript, React.js, & Node.js
-- <b>JS Frameworks</b> : React & Node
-- <b>Operating Systems</b> : Linux, MacBook Pro
-- <b>Web services</b> : JSON
-- <b>Visual Basic.NET, ASP.NET, .NET Core</b>
-
-<!--#### Mobile Application Development
-
-- <b>Swift, Objective-C, Java, Xcode, Android Studio</b>
-- <b>React Native, Ionic Framework, Xamarin, Flutter, Kotlin</b>
-- <b>Cocoa Touch, AVFoundation, CoreImage, CoreData, MapKit, SpriteKit, CloudKit, Core Audio, CoreMIDI</b>
-- <b>Android SDK, Android NDK, SQLite</b>
-- <b>JUnit, Mockito, Robolectric</b>
-- <b>MVVM, MVP</b>
--->
-
-<!--![LeetCode Stats](https://leetcard.jacoblin.cool/marckt?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&border=1&width=500)-->
-
-
-https://github.com/tandpfun/skill-icons#readme
- 
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="my github stats" height="190px" />
-</p> 
-
--->
