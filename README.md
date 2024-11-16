@@ -66,7 +66,7 @@ Transparent, communicative, dedicated and superior development.<br>
 [![Javascript Stack](https://skillicons.dev/icons?i=javascript,react,nodejs,npm,yarn&theme=dark)](https://skillicons.dev)
 
 #### Python Stack
-[![Python Stack](https://skillicons.dev/icons?i=python,fastapi&theme=dark)](https://skillicons.dev)
+[![Python Stack](https://skillicons.dev/icons?i=python,fastapi,pandas&theme=dark)](https://skillicons.dev)
 
 <!--#### Ruby Stack
 [![Ruby Stack](https://skillicons.dev/icons?i=ruby,rails&theme=dark)](https://skillicons.dev)
