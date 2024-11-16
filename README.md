@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [10anime](https://10anime.com/)
 
-- 🌱 I’m currently learning **OS, Interpreter, JS, Jellyfin**
+- 🌱 I’m currently learning **Operating Systems, Interpreters, JavaScript, Jellyfin**
 
 - 👯 I’m looking to collaborate on **any fun anime projects**
 
