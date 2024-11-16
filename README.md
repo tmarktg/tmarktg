@@ -2,9 +2,9 @@
 Clear Cache
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prestonzen&show_icons=true&theme=radical" alt="my github stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tmarktg&show_icons=true&theme=radical" alt="my github stats" height="190px" />
     &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prestonzen&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tmarktg&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
 
 <!--
@@ -19,20 +19,20 @@ Clear Cache
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prestonzen/prestonzen/refs/heads/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prestonzen/prestonzen/refs/heads/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmarktg/tmarktg/refs/heads/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tmarktg/tmarktg/refs/heads/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=prestonzen&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tmarktg&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prestonzen/">
+  <a href="https://www.linkedin.com/in/mark-truong76/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:prestonzen@kaizenapps.com">
+  <a href="mailto:mtruong7613@sdsu.edu">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
