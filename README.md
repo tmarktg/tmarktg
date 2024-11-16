@@ -98,7 +98,7 @@ Transparent, communicative, dedicated and superior development.<br>
 -->
 
 #### Frontend Frameworks
-[![Frontend Frameworks](https://skillicons.dev/icons?i=materialui,bootstrap,html,css,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend Frameworks](https://skillicons.dev/icons?i=html,css,react.js&theme=dark)](https://skillicons.dev)
 
 <!--#### API Frameworks
 [![API Frameworks](https://skillicons.dev/icons?i=graphql,postman,tailwind&theme=dark)](https://skillicons.dev)
