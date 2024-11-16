@@ -5,8 +5,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmarktg&show_icons=true&locale=en" alt="tmarktg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmarktg&" alt="tmarktg" /></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmarktg" alt="tmarktg" /></a> </p>
 
 - 🔭 I’m currently working on [10anime](https://10anime.com/)
