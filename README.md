@@ -5,6 +5,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmarktg&show_icons=true&locale=en" alt="tmarktg" /></p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prestonzen/prestonzen/refs/heads/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prestonzen/prestonzen/refs/heads/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmarktg" alt="tmarktg" /></a> </p>
 
 - 🔭 I’m currently working on [10anime](https://10anime.com/)
