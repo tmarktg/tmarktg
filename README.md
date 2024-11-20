@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mark Truong</h1>
 <h3 align="center">Full Stack Developer for Kaizen Apps</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmarktg&show_icons=true&locale=en&layout=compact" alt="tmarktg" /></p>
+<!--<p></p>-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmarktg&show_icons=true&locale=en" alt="tmarktg" /></p>-->
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tmarktg&show_icons=true&theme=dark" alt="my github stats" height="190px" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmarktg&show_icons=true&locale=en&layout=compact" alt="tmarktg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tmarktg&show_icons=true&theme=dark" alt="my github stats" height="190px" />
 </p>
 
 
