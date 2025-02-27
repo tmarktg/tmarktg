@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **JavaScript, Linux, How to build a website**
 
-- 📫 How to reach me **mtruong7613@sdsu.edu**
+<!--- 📫 How to reach me **mtruong7613@sdsu.edu**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
