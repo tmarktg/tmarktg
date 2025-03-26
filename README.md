@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on [10anime](https://10anime.com/)
 
-- 🌱 I’m currently learning **Operating Systems, Interpreters, JavaScript, Jellyfin, Neural Networks, Wireless Networks**
+- 🌱 I’m currently learning **Advanced system design**
 
 - 👯 I’m looking to collaborate on **any fun anime projects**
 
