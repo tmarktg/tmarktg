@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Truong</h1>
-<h3 align="center">Full Stack Developer for Kaizen Apps</h3>
+<h3 align="center">Computer Science Student at SDSU</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmarktg&show_icons=true&locale=en&layout=compact" alt="tmarktg" /></p>
 
@@ -19,13 +19,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmarktg" alt="tmarktg" /></a> </p>
 
-- 🔭 I’m currently working on [10anime](https://10anime.com/)
+- 🔭 I’m currently working on sugomimarketing.com
 
 - 🌱 I’m currently learning **Advanced system design**
 
 - 👯 I’m looking to collaborate on **any fun anime projects**
 
-- 👨‍💻 All of my projects are available at [https://www.marktruong.com/](https://www.marktruong.com/)
+<!---- 👨‍💻 All of my projects are available at [https://www.marktruong.com/](https://www.marktruong.com/)-->
 
 - 💬 Ask me about **JavaScript, Linux, How to build a website**
 
