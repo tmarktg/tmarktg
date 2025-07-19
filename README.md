@@ -19,11 +19,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmarktg" alt="tmarktg" /></a> </p>
 
-- 🔭 I’m currently working on sugomimarketing.com
+- 🔭 I’m currently working at Kaizen Apps
 
-- 🌱 I’m currently learning **Advanced system design**
+- 🌱 I’m currently learning **Devops Engineering / Frontend / Backend Technologies**
 
-- 👯 I’m looking to collaborate on **any fun anime projects**
+- 👯 I’m looking to collaborate on **any fun open source projects**
 
 <!---- 👨‍💻 All of my projects are available at [https://www.marktruong.com/](https://www.marktruong.com/)-->
 
