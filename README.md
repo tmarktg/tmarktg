@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Truong</h1>
-<h3 align="center">Computer Science Student at SDSU</h3>
+<h3 align="center">Senior Full Stack Developer at Kaizen Apps</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmarktg&show_icons=true&locale=en&layout=compact" alt="tmarktg" /></p>
 
