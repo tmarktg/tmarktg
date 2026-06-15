@@ -26,4 +26,3 @@ Computer Science graduate and full-stack engineer with production experience and
 ### 📫 Reach me
 
 - LinkedIn: [mark-truong-sha1](https://www.linkedin.com/in/mark-truong-sha1/)
-- Email: marktruongsha1@gmail.com
