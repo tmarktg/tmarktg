@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A passionate devops engineer from the U.S.</h3>
 
+<h3 align="center">☕ Dev Wisdom</h3>
+
+<p align="center">
+  <i>"Back in my day, when you ran out of tokens,<br/>
+  you went to YouTube, Stack Overflow, and Google<br/>
+  to keep developing."</i>
+</p>
+
+<p align="center">— Me, refilling both coffee and context window</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmarktg/tmarktg/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmarktg/tmarktg/output/github-snake.svg" />
