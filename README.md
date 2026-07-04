@@ -3,6 +3,12 @@
 
 ![snake gif](https://github.com/tmarktg/tmarktg/blob/output/github-snake-dark.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmarktg/tmarktg/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmarktg/tmarktg/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tmarktg/tmarktg/output/github-snake.svg" />
+</picture>
+
 - 🔭 I’m currently tinkering with [AI/ML Projects](https://github.com/tmarktg/cinephile)
 
 - 🌱 I’m currently learning **AWS**
