@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **CyberSecOps Projects!**
 
-- 👨‍💻 All of my projects are available at [marktruong.com](marktruong.com)
+- 👨‍💻 All of my projects are available at [marktruong.com](https://marktruong.com)
 
-- 📝 I regularly write articles on [marktruong.dev](marktruong.dev)
+- 📝 I regularly write articles on [marktruong.dev](https://marktruong.dev)
 
 - 💬 Ask me about **Cloud Infrastructure**
 
