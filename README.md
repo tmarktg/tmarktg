@@ -21,8 +21,3 @@ Computer Science graduate and full-stack engineer with production experience and
 
 **Production cinema booking platform** ([CineStar Cinemas](#)) — React/Next.js frontend on a Magento 2 OOP backend serving real end-user traffic across multiple enterprise sites. Built a GraphQL layer with custom resolvers over a legacy architecture, ran MySQL migrations, and containerized the dev environment for reproducible builds.
 
----
-
-### 📫 Reach me
-
-- LinkedIn: [mark-truong-sha1](https://www.linkedin.com/in/mark-truong-sha1/)
