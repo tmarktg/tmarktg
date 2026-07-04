@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A passionate devops engineer from U.S.</h3>
 
+![snake gif](https://github.com/tmarktg/tmarktg/blob/output/github-snake-dark.svg)
+
 - 🔭 I’m currently tinkering with [AI/ML Projects](https://github.com/tmarktg/cinephile)
 
 - 🌱 I’m currently learning **AWS**
