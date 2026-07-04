@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate devops engineer from U.S.</h3>
+<h3 align="center">A passionate devops engineer from the U.S.</h3>
 
 ![snake gif](https://github.com/tmarktg/tmarktg/blob/output/github-snake-dark.svg)
 
