@@ -37,7 +37,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Aws Project](https://marktruong.dev/2026-07-04-AWS-project/)
+- [Six Stocks, Zero Servers](https://marktruong.dev/2026-07-04-AWS-project/)
 - [A Deep Dive into Language Implementation](https://marktruong.dev/2025-07-30-interpreter/)
 - [Playing with n8n on a Freelance Project](https://marktruong.dev/2025-07-19-n8n/)
 - [Building a Drone Simulator Project with AirSim and Unreal Engine](https://marktruong.dev/2025-07-18-dronesim/)
