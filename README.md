@@ -35,7 +35,7 @@
 
 - ⚡ Fun fact **I really love tinkering with LoRAs**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Six Stocks, Zero Servers](https://marktruong.dev/2026-07-04-AWS-project/)
 - [A Deep Dive into Language Implementation](https://marktruong.dev/2025-07-30-interpreter/)
