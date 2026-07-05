@@ -27,13 +27,13 @@
 
 - 📝 I regularly write articles on [marktruong.dev](https://marktruong.dev)
 
-- 💬 Ask me about **Cloud Infrastructure**
+- 💬 Ask me about **Cloud Infrastructure** [cloud project post](https://marktruong.dev/2026-07-04-AWS-project/)
 
 - 📫 How to reach me **marktruongsha1@gmail.com**
 
 - 📄 Know about my experiences [https://marktruong.com/resume](https://marktruong.com/resume)
 
-- ⚡ Fun fact **I really love tinkering with LoRAs**
+- ⚡ Fun fact **I really love tinkering with LoRAs** 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
