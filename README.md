@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate devops engineer from the U.S.</h3>
+<h3 align="center">A passionate software engineer from the U.S.</h3>
 
 <p align="center">
   <i>"Back in my day, when you ran out of tokens,<br/>
