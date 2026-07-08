@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate software engineer from the U.S.</h3>
+<h3 align="center">A passionate devops engineer from the U.S.</h3>
 
 <p align="center">
   <i>"Back in my day, when you ran out of tokens,<br/>
@@ -17,9 +17,9 @@
 
 - 🔭 I’m currently tinkering with [AI/ML Projects](https://github.com/tmarktg/cinephile)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS / Cloud Infrastructure**
 
-- 👯 I’m looking to collaborate on **any Anime / Manga related projects!**
+- 👯 I’m looking to collaborate on **any Cloud related projects!**
 
 - 🤝 I’m looking for help with **CyberSecOps Projects!**
 
@@ -33,7 +33,7 @@
 
 - 📄 Know about my experiences [https://marktruong.com/resume](https://marktruong.com/resume)
 
-- ⚡ Fun fact **I really love tinkering with LoRAs** 
+- ⚡ Fun fact **I tinkered heavily with LoRAs, building datasets is rough** 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
