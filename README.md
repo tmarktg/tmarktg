@@ -37,11 +37,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Six Stocks, Zero Servers](https://marktruong.dev/2026-07-04-AWS-project/)
-- [A Deep Dive into Language Implementation](https://marktruong.dev/2025-07-30-interpreter/)
-- [Playing with n8n on a Freelance Project](https://marktruong.dev/2025-07-19-n8n/)
-- [Building a Drone Simulator Project with AirSim and Unreal Engine](https://marktruong.dev/2025-07-18-dronesim/)
-- [Drowning in AI Art LORAs, ComfyUI](https://marktruong.dev/2025-07-17-lora/)
+- [Failing a DevOps Interview - What I Got Right and What I Got Wrong](https://marktruong.dev/2026-07-09-devops-interview-failure/)
+- [What I Learned Failing as a Project Lead at the SDSU AI Club](https://marktruong.dev/2026-07-08-sdsu-ai-club-failure/)
+- [The Hunt for DevOps Arc, Part 2 - Research Before the Grind](https://marktruong.dev/2026-07-08-hunt-for-devops-research/)
+- [The Hunt for DevOps Arc, Part 3 - The Cleared Defense Roadmap](https://marktruong.dev/2026-07-08-hunt-for-devops-cleared-roadmap/)
+- [Hunting for a DevOps Job as a Fresh CS Grad With &lpar;Almost&rpar; No Experience](https://marktruong.dev/2026-07-08-devops-job-hunt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
