@@ -37,11 +37,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hunt for DevOps Roles, Day 2 - Escaping Tutorial Hell](https://marktruong.dev/2026-07-10-hunt-for-devops-day-2/)
 - [Failing a DevOps Interview - What I Got Right and What I Got Wrong](https://marktruong.dev/2026-07-09-devops-interview-failure/)
 - [What I Learned Failing as a Project Lead at the SDSU AI Club](https://marktruong.dev/2026-07-08-sdsu-ai-club-failure/)
 - [The Hunt for DevOps Arc, Part 2 - Research Before the Grind](https://marktruong.dev/2026-07-08-hunt-for-devops-research/)
 - [The Hunt for DevOps Arc, Part 3 - The Cleared Defense Roadmap](https://marktruong.dev/2026-07-08-hunt-for-devops-cleared-roadmap/)
-- [Hunting for a DevOps Job as a Fresh CS Grad With &lpar;Almost&rpar; No Experience](https://marktruong.dev/2026-07-08-devops-job-hunt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
