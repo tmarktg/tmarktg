@@ -37,11 +37,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hunt for DevOps Roles, Day 4 - What Even Is DevOps?](https://marktruong.dev/2026-07-12-hunt-for-devops-day-4/)
 - [Hunt for DevOps Roles, Day 3 - Tables, Constraints, and Getting Lost in the Sauce](https://marktruong.dev/2026-07-11-hunt-for-devops-day-3/)
 - [Hunt for DevOps Roles, Day 2 - Escaping Tutorial Hell](https://marktruong.dev/2026-07-10-hunt-for-devops-day-2/)
 - [Failing a DevOps Interview - What I Got Right and What I Got Wrong](https://marktruong.dev/2026-07-09-devops-interview-failure/)
 - [What I Learned Failing as a Project Lead at the SDSU AI Club](https://marktruong.dev/2026-07-08-sdsu-ai-club-failure/)
-- [The Hunt for DevOps Arc, Part 2 - Research Before the Grind](https://marktruong.dev/2026-07-08-hunt-for-devops-research/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
