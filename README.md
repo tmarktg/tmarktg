@@ -27,7 +27,7 @@
 
 - 📝 I regularly write articles on [marktruong.dev](https://marktruong.dev)
 
-- 💬 Ask me about **Cloud Infrastructure** [cloud project post](https://marktruong.dev/2026-07-04-AWS-project/)
+- 💬 Ask me about **Cloud Infrastructure** [cloud project post](https://marktruong.dev/2026-07-17-hunt-for-devops-day-6/)
 
 - 📫 How to reach me **marktruongsha1@gmail.com**
 
