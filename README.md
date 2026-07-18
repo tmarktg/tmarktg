@@ -37,11 +37,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hunt for DevOps Roles, Day 5 - Containers, VMs, and Wiring Up GitHub Actions](https://marktruong.dev/2026-07-15-hunt-for-devops-day-5/)
-- [Hunt for DevOps Roles, Day 4 - What Even Is DevOps?](https://marktruong.dev/2026-07-12-hunt-for-devops-day-4/)
-- [Hunt for DevOps Roles, Day 3 - Tables, Constraints, and Getting Lost in the Sauce](https://marktruong.dev/2026-07-11-hunt-for-devops-day-3/)
-- [Hunt for DevOps Roles, Day 2 - Escaping Tutorial Hell](https://marktruong.dev/2026-07-10-hunt-for-devops-day-2/)
-- [Failing a DevOps Interview - What I Got Right and What I Got Wrong](https://marktruong.dev/2026-07-09-devops-interview-failure/)
+- [What Are LoRAs?](https://marktruong.dev/2026-07-17-what-are-loras/)
+- [Hunt for DevOps Roles, Day 9 - What Is TCP? What Is HTTP?](https://marktruong.dev/2026-07-17-hunt-for-devops-day-9/)
+- [Hunt for DevOps Roles, Day 8 - Dockerizing a Multi-Service App](https://marktruong.dev/2026-07-17-hunt-for-devops-day-8/)
+- [Hunt for DevOps Roles, Day 7 - The Pathway Into DevOps](https://marktruong.dev/2026-07-17-hunt-for-devops-day-7/)
+- [Hunt for DevOps Roles, Day 6 - Terraform, State Files, and VPC Basics](https://marktruong.dev/2026-07-17-hunt-for-devops-day-6/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
