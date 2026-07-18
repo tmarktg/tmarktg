@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently tinkering with [AI/ML Projects](https://github.com/tmarktg/cinephile)
 
-- 🌱 I’m currently learning **AWS / Cloud Infrastructure**
+- 🌱 I’m currently learning [**AWS / Cloud Infrastructure**](https://marktruong.dev/2026-07-17-hunt-for-devops-day-6/)
 
 - 👯 I’m looking to collaborate on **any Cloud related projects!**
 
@@ -27,13 +27,13 @@
 
 - 📝 I regularly write articles on [marktruong.dev](https://marktruong.dev)
 
-- 💬 Ask me about **Cloud Infrastructure** [cloud project post](https://marktruong.dev/2026-07-17-hunt-for-devops-day-6/)
+- 💬 Ask me about [**Cloud Infrastructure**](https://marktruong.dev/2026-07-17-hunt-for-devops-day-6/)
 
 - 📫 How to reach me **marktruongsha1@gmail.com**
 
 - 📄 Know about my experiences [https://marktruong.com/resume](https://marktruong.com/resume)
 
-- ⚡ Fun fact **I tinkered heavily with LoRAs, building datasets is rough** 
+- ⚡ Fun fact [**I tinkered heavily with LoRAs, building datasets is rough**](https://marktruong.dev/2026-07-17-what-are-loras/)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
