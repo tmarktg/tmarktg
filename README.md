@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **any Cloud related projects!**
 
-- 🤝 I’m looking for help with **CyberSecOps Projects!**
+- 🤝 I’m looking for help with **DevSecOps Projects!**
 
 - 👨‍💻 All of my projects are available at [marktruong.com](https://marktruong.com)
 
