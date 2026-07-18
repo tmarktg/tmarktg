@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning [**AWS / Cloud Infrastructure**](https://marktruong.dev/2026-07-17-hunt-for-devops-day-6/)
 
-- 👯 I’m looking to collaborate on **any Cloud related projects!**
+- 👯 I’m looking to collaborate on **any AWS related projects!**
 
 - 🤝 I’m looking for help with **DevSecOps Projects!**
 
