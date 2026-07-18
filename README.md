@@ -15,7 +15,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tmarktg/tmarktg/output/github-snake.svg" />
 </picture>
 
-- 🔭 I’m currently tinkering with [AI/ML Projects](https://github.com/tmarktg/cinephile)
+- 🔭 I’m currently tinkering with [**AI/ML Projects**](https://github.com/tmarktg/cinephile)
 
 - 🌱 I’m currently learning [**AWS / Cloud Infrastructure**](https://marktruong.dev/2026-07-17-hunt-for-devops-day-6/)
 
@@ -23,15 +23,15 @@
 
 - 🤝 I’m looking for help with **DevSecOps Projects!**
 
-- 👨‍💻 All of my projects are available at [marktruong.com](https://marktruong.com)
+- 👨‍💻 All of my projects are available at [**marktruong.com**](https://marktruong.com)
 
-- 📝 I regularly write articles on [marktruong.dev](https://marktruong.dev)
+- 📝 I regularly write articles on [**marktruong.dev**](https://marktruong.dev)
 
 - 💬 Ask me about [**Cloud Infrastructure**](https://marktruong.dev/2026-07-17-hunt-for-devops-day-6/)
 
 - 📫 How to reach me **marktruongsha1@gmail.com**
 
-- 📄 Know about my experiences [https://marktruong.com/resume](https://marktruong.com/resume)
+- 📄 Know about my experiences [**https://marktruong.com/resume**](https://marktruong.com/resume)
 
 - ⚡ Fun fact [**I tinkered heavily with LoRAs, building datasets is rough**](https://marktruong.dev/2026-07-17-what-are-loras/)
 
