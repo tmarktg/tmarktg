@@ -37,11 +37,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is RAG?](https://marktruong.dev/2026-07-22-what-is-rag/)
 - [Hunt for DevOps Roles, Day 10 - REST APIs and API Gateways](https://marktruong.dev/2026-07-18-hunt-for-devops-day-10/)
 - [What Are LoRAs?](https://marktruong.dev/2026-07-17-what-are-loras/)
 - [Hunt for DevOps Roles, Day 9 - What Is TCP? What Is HTTP?](https://marktruong.dev/2026-07-17-hunt-for-devops-day-9/)
 - [Hunt for DevOps Roles, Day 8 - Dockerizing a Multi-Service App](https://marktruong.dev/2026-07-17-hunt-for-devops-day-8/)
-- [Hunt for DevOps Roles, Day 7 - The Pathway Into DevOps](https://marktruong.dev/2026-07-17-hunt-for-devops-day-7/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
