@@ -37,11 +37,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting Out with Java - Computer Organization](https://marktruong.dev/2026-08-01-starting-out-with-java-computer-organization/)
 - [Failing Another Software Engineer Interview - The Fundamentals I Forgot](https://marktruong.dev/2026-07-30-swe-interview-failure/)
 - [Hunt for DevOps Roles, Day 11 - Networking, Cryptography, and RESTCONF Basics](https://marktruong.dev/2026-07-25-hunt-for-devops-day-11/)
 - [What Is RAG?](https://marktruong.dev/2026-07-22-what-is-rag/)
 - [Hunt for DevOps Roles, Day 10 - REST APIs and API Gateways](https://marktruong.dev/2026-07-18-hunt-for-devops-day-10/)
-- [What Are LoRAs?](https://marktruong.dev/2026-07-17-what-are-loras/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
